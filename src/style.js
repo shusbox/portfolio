@@ -2,12 +2,13 @@ import styled from '@emotion/styled';
 import { theme } from './theme';
 
 export const Container = styled.div`
-  width: 100vw;
-  height: 100vh;
+  min-idth: 100vw;
+  min-height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   background-color: ${theme.colors.bg};
+  overflow: scroll;
 `;
 
 export const Divider = styled.div`

@@ -19,13 +19,15 @@ export const HyperLink = styled.a`
 `;
 
 export const Container = styled.div`
-  margin-top: 40px;
+  margin: 40px 0 40px 0;
   width: 85%;
   display: flex;
   justify-content: space-between;
+  gap: 60px;
 `;
 
 export const TextContainer = styled.div`
+  min-width: 80px;
   display: flex;
   flex-direction: column;
   gap: 4px;
