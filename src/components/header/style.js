@@ -10,4 +10,5 @@ export const Container = styled.div`
   font-weight: 600;
   background-color: ${theme.colors.black};
   align-self: stretch;
+  box-sizing: border-box;
 `;
