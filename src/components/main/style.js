@@ -8,7 +8,7 @@ export const Text = styled.p`
 `;
 
 export const Container = styled.div`
-  margin-top: 60px;
+  margin: 60px 0 80px 0;
   width: 85%;
   display: flex;
   flex-direction: column;
