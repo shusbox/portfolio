@@ -21,6 +21,7 @@ export const HyperLink = styled.a`
 export const Container = styled.div`
   margin: 40px 0 40px 0;
   width: 85%;
+  max-width: 1600px;
   display: flex;
   justify-content: space-between;
   gap: 60px;

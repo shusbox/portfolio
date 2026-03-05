@@ -10,6 +10,7 @@ export const Text = styled.p`
 export const Container = styled.div`
   margin: 60px 0 80px 0;
   width: 85%;
+  max-width: 1600px;
   display: flex;
   flex-direction: column;
   gap: 52px;
