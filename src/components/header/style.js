@@ -9,4 +9,5 @@ export const Container = styled.div`
   font-size: 20px;
   font-weight: 600;
   background-color: ${theme.colors.black};
+  align-self: stretch;
 `;
