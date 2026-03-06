@@ -29,9 +29,3 @@ export const TextContainer = styled.div`
   align-items: center;
   gap: 4px;
 `;
-
-export const Icon = styled.p`
-  margin: 0;
-  margin-bottom: 16px;
-  font-size: 5.2rem;
-`;
