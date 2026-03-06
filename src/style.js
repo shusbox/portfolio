@@ -7,7 +7,7 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: ${theme.colors.bg};
+  background-color: ${theme.colors.bg_light};
   box-sizing: border-box;
   overflow: scroll;
 `;
