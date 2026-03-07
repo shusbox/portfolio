@@ -3,7 +3,7 @@ import { theme } from './theme';
 
 export const Container = styled.div`
   width: 100vw;
-  min-height: 100%;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
